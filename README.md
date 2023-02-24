@@ -6,5 +6,5 @@ Bem-vindo ao NightCity! Estamos empolgados em apresentar o nosso novo servidor d
 Nossa equipe trabalhou duro para criar um ambiente divertido e desafiador, onde você pode experimentar uma variedade de modos, como sobrevivência, batalhas e aventuras. Além disso, teremos um sistema avançado de economia e recursos para tornar sua jornada ainda mais interessante.
 Você poderá se juntar a outros jogadores para explorar um mundo vasto e cheio de desafios, lutando por recursos, construindo abrigos e lutando contra outros jogadores. Não perca a oportunidade de se juntar a nós e experimentar o melhor do modpack de Minecraft!
 
-Discord: https://discord.operius.com.br
-Wiki: https://wiki.operius.com.br
+Discord: https://discord.operius.com.br 
+Wiki: https://wiki.operius.com.br 
